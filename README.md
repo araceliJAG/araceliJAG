@@ -21,4 +21,4 @@ Atlanta, GA • [LinkedIn](https://www.linkedin.com/in/araceli-jag04)
 - [Enterprise Software Requirements Specification](https://github.com/araceliJAG/enterprise-systems-requirements-spec)
 
 
-👉 [Click here to read my full story, journey, and soft skills!](https://github.com/<your-username>/about-me) :D
+👉 [Click here to read my full story, journey, and soft skills!](https://github.com/araceliJAG/about-me) :D
