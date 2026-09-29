@@ -19,3 +19,6 @@ Atlanta, GA • [LinkedIn](https://www.linkedin.com/in/araceli-jag04)
 - [Agile Web Development & Sprint Retrospective](https://github.com/araceliJAG/agile-web-development-sprint)
 - [Dignified Days: Home Hospice Operations Case Study](https://github.com/araceliJAG/Home-Hospice-Operations-Case-Study-CIS-3001-Client-Project-)
 - [Enterprise Software Requirements Specification](https://github.com/araceliJAG/enterprise-systems-requirements-spec)
+
+
+👉 [Click here to read my full story, journey, and soft skills!](https://github.com/<your-username>/about-me) :D
