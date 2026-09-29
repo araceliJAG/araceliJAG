@@ -16,7 +16,7 @@ Atlanta, GA • [LinkedIn](https://www.linkedin.com/in/araceli-jag04)
 ### 📂 Featured Repositories
 - [Network Protocol Forensics & Wireshark Labs](https://github.com/araceliJAG/network-forensics-security-labs/blob/main/README.md)
 - [Operational Business Analytics & Spreadsheet Model](https://github.com/araceliJAG/business-analytics-excel-model)
-- [Agile Web Development & Sprint Retrospective](https://github.com/YOUR_USERNAME/agile-web-development-sprint)
+- [Agile Web Development & Sprint Retrospective](https://github.com/araceliJAG/agile-web-development-sprint/blob/main/README.md)
 - [Enterprise Software Requirements Specification](https://github.com/YOUR_USERNAME/enterprise-systems-requirements-spec)
 <!--
 **araceliJAG/araceliJAG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
